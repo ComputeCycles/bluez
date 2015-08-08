@@ -85,7 +85,7 @@
 #define MIN(a, b) ((a) < (b) ? (a) : (b))
 #endif
 
-#define RSSI_THRESHOLD		8
+#define RSSI_THRESHOLD		0
 
 static DBusConnection *dbus_conn = NULL;
 static unsigned service_state_cb_id;
