@@ -1489,6 +1489,62 @@ const char *bt_compidtostr(int compid)
 		return "DDS, Inc.";
 	case 613:
 		return "SMK Corporation";
+	case 614:
+		return "Schawbel Technologies LLC";
+	case 615:
+		return "XMI Systems SA";
+	case 616:
+		return "Cerevo";
+	case 617:
+		return "Torrox GmbH & Co KG";
+	case 618:
+		return "Gemalto";
+	case 619:
+		return "DEKA Research & Development Corp.";
+	case 620:
+		return "Domster Tadeusz Szydlowski";
+	case 621:
+		return "Technogym SPA";
+	case 622:
+		return "FLEURBAEY BVBA";
+	case 623:
+		return "Aptcode Solutions";
+	case 624:
+		return "LSI ADL Technology";
+	case 625:
+		return "Animas Corp";
+	case 626:
+		return "Alps Electric Co., Ltd.";
+	case 627:
+		return "OCEASOFT";
+	case 628:
+		return "Motsai Research";
+	case 629:
+		return "Geotab";
+	case 630:
+		return "E.G.O. Elektro-Gertebau GmbH";
+	case 631:
+		return "bewhere inc";
+	case 632:
+		return "Johnson Outdoors Inc";
+	case 633:
+		return "steute Schaltgerate GmbH & Co. KG";
+	case 634:
+		return "Ekomini inc.";
+	case 635:
+		return "DEFA AS";
+	case 636:
+		return "Aseptika Ltd";
+	case 637:
+		return "HUAWEI Technologies Co., Ltd. ( 华为技术有限公司 )";
+	case 638:
+		return "HabitAware, LLC";
+	case 639:
+		return "ruwido austria gmbh";
+	case 640:
+		return "ITEC corporation";
+	case 641:
+		return "StoneL";
 	case 65535:
 		return "internal use";
 	default:
